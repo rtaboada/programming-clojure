@@ -10,3 +10,5 @@ lib/*
 .lein-failures
 classes/*
 /.idea
+/target
+.nrepl-port
